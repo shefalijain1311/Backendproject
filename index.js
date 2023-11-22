@@ -26,7 +26,7 @@ const path = require('path')
 
 // }
 
-app.get('/', (req, res) => res.send('Hello World!'))
+app.get('/', (req, res) => res.send('Namaste Welcome to Our backend, This website is created by Shefali Jain !'))
 
 
  
